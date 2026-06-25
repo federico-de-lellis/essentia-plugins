@@ -82,6 +82,7 @@ add_subdirectory(plugins/Energy)
 add_subdirectory(plugins/RMS)
 add_subdirectory(plugins/Audio2Midi)
 add_subdirectory(plugins/ZeroCrossingRate)
+add_subdirectory(plugins/Onset2Midi)
 
 # enable_testing()
 # add_subdirectory(test)
