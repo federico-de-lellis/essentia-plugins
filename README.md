@@ -28,6 +28,7 @@ The repository ships ready‑to‑use plugins **and** templates so you can boots
 | **Energy**     | Frame‑based energy estimator                       | CMake        |
 | **Audio2Midi** | Monophonic pitch tracker that outputs MIDI events  | CMake & Projucer |
 | **ZeroCrossingRate** | Calculates zero crossing rate for audio analysis | CMake      |
+| **Onset2Midi** | Onset detector that triggers a fixed MIDI note (velocity from hit strength) on drum hits | CMake |
 
 <table>
   <tr>
@@ -48,6 +49,12 @@ The repository ships ready‑to‑use plugins **and** templates so you can boots
     <td align="center">
       <img src="plugins/assets/screenshots/zcr.png" alt="Zero Crossing Rate Plugin" width="300"/>
       <br><b>Zero Crossing Rate</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="plugins/assets/screenshots/onset2midi.png" alt="Audio2Midi Plugin" width="300"/>
+      <br><b>Onset2Midi</b>
     </td>
   </tr>
 </table>
