@@ -28,7 +28,7 @@ The repository ships ready‑to‑use plugins **and** templates so you can boots
 | **Energy**     | Frame‑based energy estimator                       | CMake        |
 | **Audio2Midi** | Monophonic pitch tracker that outputs MIDI events  | CMake & Projucer |
 | **ZeroCrossingRate** | Calculates zero crossing rate for audio analysis | CMake      |
-| **Onset2Midi** | Onset detector that triggers a fixed MIDI note (velocity from hit strength) on drum hits | CMake |
+| **Onset2Midi** | Onset detector that triggers MIDI note | CMake |
 
 <table>
   <tr>
